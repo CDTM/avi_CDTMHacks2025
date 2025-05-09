@@ -50,7 +50,8 @@ Additionally, you will receive:
 - KBV Specs (available publicly under https://www.kbv.de/html/mio.php)
 
 Our core-stack (where we can help best):
-- Expo / React Native (TypeScript)
+- Expo / React Native (TypeScript):
+-- Recommended Starter: https://github.com/avimedical/avi-react-native-starter
 - Django / Flask (Python)
 - Quarkus (Java EE)
 - Kubernetes 
