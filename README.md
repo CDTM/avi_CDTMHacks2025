@@ -43,8 +43,9 @@ We will provide you with the following data points:
 
 Additionally, you will receive:
 - Access to own project in GCP
-  -  All services that are available in EUW3 or EUW4 are allowed to be used
+  -  You can use services from any region, but try to use europe-west3 or europe-west4 wherever possible
   -  The project will have access to Gemini (all models) and VertexAI
+  -  You can request your project with this Google form: https://forms.gle/sC18uA5SZPAQyfwf7
 - Access to a handful of measurement devices and wearables (Blood Pressure, ECG, Blood Sugar)
 - Gematik Specs (available publicly under https://github.com/gematik/ref-OpenHealthCardKit)
 - KBV Specs (available publicly under https://www.kbv.de/html/mio.php)
