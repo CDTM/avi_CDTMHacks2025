@@ -10,11 +10,11 @@ Your goal is to, on the one hand, transform the patient intake experience: make 
 
 ## <p align="center"> The Pitch: </p>
 
-<p align="center"> Insert Pitchdeck here </p>
+[Pitchdeck](https://docs.google.com/presentation/d/1dhH1RqVRcivtKeIQv0AgNpm1BatpGiGl7Yxp6DUyL14/edit#slide=id.g359b5752b20_3_30)
 
 ## <p align="center"> Deep Dive Slides: </p>
 
-<p align="center"> Insert Deep Dive Slides here </p>
+[Deep dive](https://docs.google.com/presentation/d/1dhH1RqVRcivtKeIQv0AgNpm1BatpGiGl7Yxp6DUyL14/edit#slide=id.g3561e46f9d0_0_47)
 
 ## <p align="center"> Use Case: </p>
 
@@ -34,13 +34,12 @@ In the real world, clinics, hospitals, and healthcare systems would invest in su
 ##  <p align="center"> Resources: </p>
 
 We will provide you with the following data points:
-- Test eGK (including reader)
-- Patient Measurements (FHIR)
-- Vaccination Card 
-- Medication Plan (BE)
+- Vaccination Cards (please also bring yours if possible) 
 - Access to Demo Accounts on Apple Health, Withings and Omron
-- Lab Reports 
-- Doctor Letters
+- Blood pressure and EKG devices, smart watches, Continuous Blood Glucose monitors
+- Sample Lab reports and Doctor letters (paper copies, like in real life)
+- Special program eligibility criteria that patients can sign up for (Disease Management Program & Hausarztprogramm)
+
 
 Additionally, you will receive:
 - Access to own project in GCP
@@ -81,4 +80,4 @@ Our core-stack (where we can help best):
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
 
-### (VIP) tickets for FC Bayern
+### Tickets to any event in 2025 (e.g. Bayern game tickets) + 360 Degree Checkup at avi
